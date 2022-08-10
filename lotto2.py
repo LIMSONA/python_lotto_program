@@ -1,3 +1,5 @@
+#exe파일 생성 시 오류사항 조치
+
 import os
 import sys
 import pickle
